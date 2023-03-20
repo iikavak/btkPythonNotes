@@ -1,0 +1,2 @@
+# btkPythonNotes
+Python Kursu Notları
